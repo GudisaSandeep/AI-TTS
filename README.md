@@ -1,4 +1,4 @@
-## AI Voice Generator - README
+## AI-TTS
 
 ### Overview
 
@@ -16,11 +16,11 @@ Welcome to the AI Voice Generator! This application allows users to convert text
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-repo/ai-voice-generator.git
+   git clone https://github.com/GudisaSandeep/AI-TTS
    ```
 2. **Navigate to the Project Directory:**
    ```bash
-   cd ai-voice-generator
+   cd AI-TTS
    ```
 3. **Install Required Dependencies:**
    ```bash
@@ -31,7 +31,7 @@ Welcome to the AI Voice Generator! This application allows users to convert text
 
 1. **Launch the Application:**
    ```bash
-   streamlit run app.py
+   streamlit run TTS.py
    ```
 2. **Access the App:** Open your browser and go to `http://localhost:8501`.
 
